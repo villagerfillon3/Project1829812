@@ -1,0 +1,46 @@
+body{
+    width: 1200px;
+    height: 8237px;
+    background-color: #2E2B33;
+    font-family: 'Roboto', sans-serif;
+}
+pre{
+    color: #B8DAD0;
+    font-size: 69px;
+}
+header{
+    display: flex;
+}
+button{
+    width: 150px;
+    height: 42px;
+}
+.sec2{
+    margin-left: 187px ;
+    font-size: 13px;
+}
+.text{
+    margin-top: 349px;
+    margin-left: 106px;
+}
+.photo{
+    margin-top: 452px;
+    width: 420px;
+    height: 593px;
+}
+.but1{
+    width:150px ;
+    height: 42px;
+    margin-left: 525px;
+}
+.fot{
+    display: flex;
+    margin-top: 299px;
+}
+.info{
+    display: flex;
+}
+.pollossa{
+    margin-top: 159px;
+    margin-left: 102px;
+}
